@@ -24,7 +24,7 @@ You are currently viewing your project's **README** file. **_README_** files are
 
 We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page.
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
@@ -86,8 +86,9 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 ![octocat](./images/create-octocat.png)
 
 
-Started with editing the readme file - did not yet get any further with this.
 
 ## Everything you need to know about GitHub
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+
+Modified the readme file again. And did you find the Creedence tapes?
